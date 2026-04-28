@@ -19,4 +19,4 @@ Gõ đường dẫn http://localhost/thư_mục_chứa_code để chạy ứng d
  
 =================TÀI KHOẢN ADMIN==========
 TK : admin
-MK: 123 4
+MK: 123 
